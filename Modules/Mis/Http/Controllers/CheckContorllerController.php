@@ -14,7 +14,7 @@ class CheckContorllerController extends Controller
      */
     public function index()
     {
-        return view('mis::index');
+        return view('mis::check');
     }
 
     /**

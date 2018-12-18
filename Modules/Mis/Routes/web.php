@@ -13,4 +13,5 @@
 
 Route::prefix('mis')->group(function() {
     Route::get('/', 'MisController@index');
+    Route::get('/check', 'CheckContorllerController@index');
 });
