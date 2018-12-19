@@ -16,6 +16,7 @@
         </p>
         <p>
             This page was loading after traversing new controllers prepared using laravel-module through composer
+        {{'This is running by laravel'}}
         </p>
     </center>
 
