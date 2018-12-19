@@ -1,0 +1,14 @@
+{
+    "name": "UM",
+    "alias": "um",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\UM\\Providers\\UMServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
