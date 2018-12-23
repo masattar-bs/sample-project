@@ -10,6 +10,7 @@
     <center>
         <h1>HI (-_-)</h1>
         <h3>MIS Check Page</h3>
+        <?php echo $_SERVER['REMOTE_ADDR']; ?>
 
         <p>
             This view is loaded from module: {!! config('mis.name') !!}
